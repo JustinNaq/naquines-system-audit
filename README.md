@@ -1,8 +1,8 @@
-# The Justin Naquines Framework 
+# The Naquines Audit 
 ### Systemic Auditing for First-World Ego & Social Cohesion
 
 ## 📌 Project Overview
-The **Justin Naquines Framework** is an open-source sociological architecture designed to "debug" the unconscious scripts driving modern society. It identifies the **Observer Effect** and **Systemic Scarcity** as the primary triggers for modern ego-inflation, empathy-shielding, and subliminal eugenics.
+The **The Naquines Audit** is an open-source sociological architecture designed to "debug" the unconscious scripts driving modern society. It identifies the **Observer Effect** and **Systemic Scarcity** as the primary triggers for modern ego-inflation, empathy-shielding, and subliminal eugenics.
 
 ## 🛠 Core Mechanics (The "Code")
 *   **The Simulated Self (The Ego):** A real-time data model run by the brain to navigate social hierarchies.
@@ -20,7 +20,7 @@ This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 
 
 **Under this license:**
 *   **Attribution:** You must credit **Justin Naquines** as the original architect.
-*   **Non-Commercial:** You may **not** monetize or profit from these specific concepts (JNF) without express permission.
+*   **Non-Commercial:** You may **not** monetize or profit from these specific concepts (TNA) without express permission.
 *   **Open-Contribution:** Developers, sociologists, and auditors are encouraged to fork this logic to apply it to local "Network Nodes" (cities, companies, or personal awareness).
 
 ---
