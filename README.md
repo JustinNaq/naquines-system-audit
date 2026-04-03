@@ -1,8 +1,8 @@
-# The Justin Naquines Framework (JNF)
+# The Justin Naquines Framework 
 ### Systemic Auditing for First-World Ego & Social Cohesion
 
 ## 📌 Project Overview
-The **Justin Naquines Framework (JNF)** is an open-source sociological architecture designed to "debug" the unconscious scripts driving modern society. It identifies the **Observer Effect** and **Systemic Scarcity** as the primary triggers for modern ego-inflation, empathy-shielding, and subliminal eugenics.
+The **Justin Naquines Framework** is an open-source sociological architecture designed to "debug" the unconscious scripts driving modern society. It identifies the **Observer Effect** and **Systemic Scarcity** as the primary triggers for modern ego-inflation, empathy-shielding, and subliminal eugenics.
 
 ## 🛠 Core Mechanics (The "Code")
 *   **The Simulated Self (The Ego):** A real-time data model run by the brain to navigate social hierarchies.
