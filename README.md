@@ -1,7 +1,7 @@
-# The Naquines Audit (TNA)
+# The Naq Audit (TNA)
 ### Systemic Auditing for First-World Ego & Social Cohesion
 
-The **Naquines Audit (TNA)** is a framework for identifying the unconscious scripts and resource-allocation errors driving modern society. It treats social behavior as a series of data exchanges influenced by the **Observer Effect** and **Systemic Scarcity**.
+The **Naq Audit (TNA)** is a framework for identifying the unconscious scripts and resource-allocation errors driving modern society. It treats social behavior as a series of data exchanges influenced by the **Observer Effect** and **Systemic Scarcity**.
 
 ## ⚖️ License & Usage
 This work is dedicated to the public domain under **[CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org)**. 
